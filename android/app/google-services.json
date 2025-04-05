@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1097247930377",
+    "project_id": "usdt-express-def0e",
+    "storage_bucket": "usdt-express-def0e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097247930377:android:b8fb0e1b478eecbce6a0d8",
+        "android_client_info": {
+          "package_name": "com.example.usdt_express"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwI_-0qIQutn6kIVdqO6zMnQA3gfoKLSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
